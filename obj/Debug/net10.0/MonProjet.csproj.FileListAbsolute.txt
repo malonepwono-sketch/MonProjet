@@ -1,0 +1,14 @@
+C:\Users\malon\Documents\C#\MonProjet\bin\Debug\net10.0\MonProjet.exe
+C:\Users\malon\Documents\C#\MonProjet\bin\Debug\net10.0\MonProjet.deps.json
+C:\Users\malon\Documents\C#\MonProjet\bin\Debug\net10.0\MonProjet.runtimeconfig.json
+C:\Users\malon\Documents\C#\MonProjet\bin\Debug\net10.0\MonProjet.dll
+C:\Users\malon\Documents\C#\MonProjet\bin\Debug\net10.0\MonProjet.pdb
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\MonProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\MonProjet.AssemblyInfoInputs.cache
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\MonProjet.AssemblyInfo.cs
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\MonProjet.csproj.CoreCompileInputs.cache
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\MonProjet.dll
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\refint\MonProjet.dll
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\MonProjet.pdb
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\MonProjet.genruntimeconfig.cache
+C:\Users\malon\Documents\C#\MonProjet\obj\Debug\net10.0\ref\MonProjet.dll
